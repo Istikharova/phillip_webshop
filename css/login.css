@@ -1,0 +1,11 @@
+/* anmelde formular */
+#anmelden form .control-group input {
+  border: none;
+}
+#anmelden form .control-group input {
+  border-bottom: var(--hellgrau) solid 0.1rem;
+}
+
+#anmelden form .control-group input:focus {
+  outline: none;
+}

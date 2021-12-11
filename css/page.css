@@ -1,0 +1,33 @@
+/* section produkte und Section Kontakt alle buttons*/
+
+#produkte .btn-outline-light {
+  background: var(--braun);
+  color: var(--hellgrau);
+  border: none;
+}
+#produkte .btn-outline-light:hover {
+  background: var(--hellgrau);
+  color: var(--braun);
+}
+
+/* section about */
+#about {
+  background: var(--hellgrau);
+}
+#about p {
+  text-align: justify;
+}
+
+/* kontaktformular */
+#kontakt input,
+#kontakt textarea {
+  border: none;
+}
+#kontakt input,
+#kontakt textarea {
+  border-bottom: var(--hellgrau) solid 0.1rem;
+}
+#kontakt form input,
+#kontakt form textarea:focus {
+  outline: none;
+}

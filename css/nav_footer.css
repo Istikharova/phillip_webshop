@@ -1,0 +1,27 @@
+/* navigation */
+nav {
+  background: white;
+  transition: ease 2000ms;
+}
+.navbar-light.scrolled {
+  background-color: var(--hellgrau) !important;
+}
+nav .container .navbar-brand {
+  color: var(--braun);
+  font-family: "Tangerine", cursive, Arial, Helvetica, sans-serif;
+  font-size: 2em;
+}
+nav .btngroup a,
+footer a {
+  color: var(--braun);
+  text-decoration: none;
+}
+nav a:hover,
+nav .container .navbar-brand:hover {
+  color: var(--grau);
+}
+
+/* footer */
+footer {
+  background: var(--hellgrau);
+}
