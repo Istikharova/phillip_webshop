@@ -27,10 +27,3 @@ für den shop finden man unter function/database.php
 - Passwort: `test`
 -url: http://localhost/phillip_webshop/
 
-
-### 📄 Konzept 
-Weitere Informationen zur Entwicklung und zum Aufbau des Projeks sind dem Konzept zu entnehmen.
-
-
-### Anmerkung
-Der Webshop Phillip's Steinfiguren ist noch in Entwicklung und wird zum späteren Zeitpunkt fortgeführt. Der Bestellvorgang ist nicht abgeschlossen. Somit kann man im CMS die Bestellungen nicht einsehen. 
